@@ -1,1 +1,12 @@
 /* styles go here */
+.form__grp {
+  margin-bottom: 20px;
+}
+
+.block {
+  display: block;
+}
+
+.block:not(:last-child) {
+  margin-bottom: 10px;
+}
